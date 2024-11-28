@@ -10,10 +10,10 @@
 ![3](https://github.com/Mirabird/Houdini_projects/blob/Pics/image_1.png)
 
 ### 4. Cheese model:
-![1](https://github.com/Mirabird/Houdini_projects/blob/Pics/Screenshot_1.png)
+![4](https://github.com/Mirabird/Houdini_projects/blob/Pics/Screenshot_1.png)
 
 ### 5. Spider Web model:
-![2](https://github.com/Mirabird/Houdini_projects/blob/Pics/Screenshot_2.png)
+![5](https://github.com/Mirabird/Houdini_projects/blob/main/spider_web.png)
 
 
 
