@@ -16,7 +16,7 @@
 ![5](https://github.com/Mirabird/Houdini_projects/blob/Pics/Screenshot_1.png)
 
 ### 6. Spider Web model:
-![6](https://github.com/Mirabird/Houdini_projects/blob/main/spider_web.png)
+![6](https://raw.githubusercontent.com/Mirabird/Houdini_projects/3af94370aba0153a11b388af4f2f0e2e58531a41/spider_web.png)
 
 
 
