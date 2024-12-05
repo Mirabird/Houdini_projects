@@ -24,7 +24,7 @@ Motion Blur effect has been added in Nuke:
 ![1](https://github.com/Mirabird/Houdini_projects/blob/Pics/Barrel.png)
 
 ### 2. Organic forms:
-![2](https://github.com/Mirabird/Houdini_projects/blob/main/organic_forms.png)
+![2](https://github.com/Mirabird/Houdini_projects/blob/Pics/organic_forms.png)
 
 ### 3. Cup model:
 ![3](https://github.com/Mirabird/Houdini_projects/blob/Pics/Screenshot_2.png)
