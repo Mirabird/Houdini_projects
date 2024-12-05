@@ -5,6 +5,9 @@
 
 [Смотреть на Vimeo](https://vimeo.com/manage/videos/1036484069)
 
+Motion Blur effect has been added in Nuke:
+![0]()
+
    ### 📽 Tornado_1 Simulation
 [Смотреть на Vimeo](https://vimeo.com/manage/videos/1035014969)
 
