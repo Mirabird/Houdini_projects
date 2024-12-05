@@ -6,7 +6,7 @@
 [Смотреть на Vimeo](https://vimeo.com/manage/videos/1036484069)
 
 Motion Blur effect has been added in Nuke:
-![0]()
+![0](https://github.com/Mirabird/Houdini_projects/blob/main/Screenshot_2.png)
 
    ### 📽 Tornado_1 Simulation
 [Смотреть на Vimeo](https://vimeo.com/manage/videos/1035014969)
