@@ -14,6 +14,9 @@ Motion Blur effect has been added in Nuke:
    ### 📽 Flip Fluid Simulation
 [Смотреть на Vimeo](https://vimeo.com/manage/videos/1036681194)
 
+   ### 📽 Adding Forces to the Fluid
+[Смотреть на Vimeo](https://vimeo.com/manage/videos/1036718589)
+
    ### 📽 Tornado_1 Simulation
 [Смотреть на Vimeo](https://vimeo.com/manage/videos/1035014969)
 
