@@ -8,6 +8,9 @@
 Motion Blur effect has been added in Nuke:
 ![7](https://github.com/Mirabird/Houdini_projects/blob/Pics/Fire.png)
 
+   ### 📽 Blended Fluids Simulation
+[Смотреть на Vimeo](https://vimeo.com/manage/videos/1036682315)
+
    ### 📽 Flip Fluid Simulation
 [Смотреть на Vimeo](https://vimeo.com/manage/videos/1036681194)
 
