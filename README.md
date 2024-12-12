@@ -15,6 +15,6 @@
 ### 2. Barrel model:
 ![2](https://github.com/Mirabird/Houdini_projects/blob/Pics/Barrel.png)
 
- ### Motion Blur for Fire effect has been added in Nuke:
+ ### Motion Blur for Fire has been added in Nuke:
 ![7](https://github.com/Mirabird/Houdini_projects/blob/Pics/Fire.png)
 
