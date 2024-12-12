@@ -5,7 +5,7 @@
 | Flip Fluid [Смотреть на Vimeo](https://vimeo.com/manage/videos/1036681194)<br> | Fluid with Forces [Смотреть на Vimeo](https://vimeo.com/manage/videos/1036718589)<br> | Tornado_1 [Смотреть на Vimeo](https://vimeo.com/manage/videos/1035014969)<br>|
 | Tornado_2 [Смотреть на Vimeo](https://vimeo.com/manage/videos/1035014383)<br> | Smoke Simulation [Смотреть на Vimeo](https://vimeo.com/manage/videos/1034649055)<br> | Candle Effect [Смотреть на Vimeo](https://vimeo.com/manage/videos/1034646587)<br> |
 
-[Fire simulation - Fire Simulation](https://vimeo.com/manage/videos/1036484069)
+[Fire Simulation](https://vimeo.com/manage/videos/1036484069)
 
  
  ### Motion Blur effect has been added in Nuke:
