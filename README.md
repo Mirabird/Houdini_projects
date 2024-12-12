@@ -2,7 +2,6 @@
 
  ### Here you can click on a row in the table and watch the video:
 
-| Fire Simulation                                                                                   | Chocolate Simulation                                                                      | Fluids Blending                                                                          |
 |----------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------|
 | [Fire](https://vimeo.com/manage/videos/1036484069)                                                | [Chocolate](https://vimeo.com/manage/videos/1037379231)                                  | [Fluids Blending](https://vimeo.com/manage/videos/1036682315)                            |
 | [Flip Fluid](https://vimeo.com/manage/videos/1036681194)                                          | [Fluid with Forces](https://vimeo.com/manage/videos/1036718589)                          | [Tornado_1](https://vimeo.com/manage/videos/1035014969)                                  |
