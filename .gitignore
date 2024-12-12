@@ -3,3 +3,4 @@
 *.bak
 .session
 *.log
+/geo/
