@@ -1,16 +1,7 @@
  # 🌟  Modeling and creating simulations in Houdini Engine
 
-| Fire Simulation [Смотреть на Vimeo](https://vimeo.com/manage/videos/1036484069) | Chocolate Simulation [Смотреть на Vimeo](https://vimeo.com/manage/videos/1037379231) |
-|:------------------------------------------------------------------------------------------------------:|:-----------------------------------------------------------------------------------------:|
-
-
- 
-
- ### Chocolate Simulation                                                                                                  
-[Смотреть на Vimeo](https://vimeo.com/manage/videos/1037379231)                                     
-
-   ### Fire Simulation
-[Смотреть на Vimeo](https://vimeo.com/manage/videos/1036484069)
+| Fire Simulation [Смотреть на Vimeo](https://vimeo.com/manage/videos/1036484069) | Chocolate Simulation [Смотреть на Vimeo](https://vimeo.com/manage/videos/1037379231) |  Fluids Blending Simulation [Смотреть на Vimeo](https://vimeo.com/manage/videos/1036681194) |
+|:------------------------------------------------------------------------------------------------------:|:-----------------------------------------------------------------------------------------:|:-----------------------------------------------------------------------------------------:|
 
  ### Motion Blur effect has been added in Nuke:
 ![7](https://github.com/Mirabird/Houdini_projects/blob/Pics/Fire.png)
