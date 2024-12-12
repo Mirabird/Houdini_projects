@@ -7,13 +7,16 @@
 | [Flip Fluid ](https://vimeo.com/manage/videos/1036681194)<br> | [ Fluid with Forces](https://vimeo.com/manage/videos/1036718589)<br> | [Tornado_1](https://vimeo.com/manage/videos/1035014969)<br>|
 | [Tornado_2](https://vimeo.com/manage/videos/1035014383)<br> | [Smoke](https://vimeo.com/manage/videos/1034649055)<br> | [Candle Effect](https://vimeo.com/manage/videos/1034646587)<br> |
 
- ### Motion Blur effect has been added in Nuke:
-![7](https://github.com/Mirabird/Houdini_projects/blob/Pics/Fire.png)
 
+ ### Here you can see some of the models:
 
 ### 1. Barrel model:
 ![1](https://github.com/Mirabird/Houdini_projects/blob/Pics/Barrel.png)
 
+### 2. Abstraction model:
+![2]()
 
 
+ ### Motion Blur for Fire effect has been added in Nuke:
+![7](https://github.com/Mirabird/Houdini_projects/blob/Pics/Fire.png)
 
