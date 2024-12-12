@@ -10,11 +10,12 @@
 
  ### Here you can see some of the models:
 
-### 1. Barrel model:
-![1](https://github.com/Mirabird/Houdini_projects/blob/Pics/Barrel.png)
+### 1. Abstraction model:
+![1]()
+### 2. Barrel model:
+![2](https://github.com/Mirabird/Houdini_projects/blob/Pics/Barrel.png)
 
-### 2. Abstraction model:
-![2]()
+
 
 
  ### Motion Blur for Fire effect has been added in Nuke:
