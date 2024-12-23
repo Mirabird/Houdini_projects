@@ -9,7 +9,7 @@
 | [Explosion_1](https://vimeo.com/1041673639?share=copy)<br> | [Explosion_2])<br> | [Explosion_3]()<br> |
 
 
- ### Here you can see some of the models:
+ ### Here you can see some of the models and simulations:
 
 ### 1. Abstraction model:
 ![1](https://github.com/Mirabird/Houdini_projects/blob/Pics/Abstraction.png)
