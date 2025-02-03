@@ -9,10 +9,8 @@
 | [Explosion_1](https://vimeo.com/1041673639?share=copy)<br> | [Explosion_2](https://vimeo.com/1041697677?share=copy)<br> | [Explosion_3]()<br> |
 
 
- ### Here you can see some of the models and simulations:
 
-### 1. Explosion simulation:
-![1](https://github.com/Mirabird/Houdini_projects/blob/Pics/Explosion.png)
+
 
 
 
