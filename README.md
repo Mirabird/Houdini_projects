@@ -15,6 +15,4 @@
 ![1](https://github.com/Mirabird/Houdini_projects/blob/Pics/Explosion.png)
 
 
- ### Motion Blur for Fire has been added in Nuke:
-![7](https://github.com/Mirabird/Houdini_projects/blob/Pics/Fire.png)
 
